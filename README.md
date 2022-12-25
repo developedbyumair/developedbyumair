@@ -1,3 +1,10 @@
+<p align="center">
+  <a href="http://developedbyumair.me/" target="blank">
+    <img src="./img/1.jpg" width="350" alt="umair" />
+    <h1 align="center">Umair Ali</h1>
+  </a>
+</p>
+
 # Highlights
 
 - 🔭 I’m currently working as Software Engineer at [Invotyx](https://invotyx.com)
