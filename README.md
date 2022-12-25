@@ -1,6 +1,6 @@
 <p align="center">
   <a href="http://developedbyumair.me/" target="blank">
-    <img src="./img/1.jpg" width="350" alt="umair" />
+    <img src="https://avatars.githubusercontent.com/u/110088358?v=4" width="350" alt="umair" />
     <h1 align="center">Umair Ali</h1>
   </a>
 </p>
