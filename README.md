@@ -1,7 +1,7 @@
 
 📈 my github stats
 
-<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=Umair-Ali-01&show_icons=true&theme=gotham" alt="abhisheknaiidu" />
+<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=Umair-Ali-01&show_icons=true&theme=gotham" alt="abhisheknaiidu" />| <a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Umair-Ali-01&layout=compact&theme=buefy&hide_border=true" /></a> |
 <!--
 **Umair-Ali-01/Umair-Ali-01** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
