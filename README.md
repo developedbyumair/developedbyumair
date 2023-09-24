@@ -19,8 +19,7 @@
 <code><img height="20" alt="nodejs" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTsnwAJtBWl41ZIGBQ1HESUMATk2xSl5n9PYbyP160FSuERbpDcRz5kuT0TpizPjXCfoXQ&usqp=CAU"></code> 
 <code><img height="20" alt="dpps" src="https://bitpanda-academy.imgix.net/null3d9bc378-fba8-451d-b467-d4e2a1302392/bitpanda-academy-intermediate-14-dapp-header-bg.png?auto=compress%2Cformat&fit=min&fm=jpg&q=80&w=2100"></code> 
   
-| <a href=""><img align="center" src="https://github-readme-stats.vercel.app/api?username=developedbyumair&show_icons=true&include_all_commits=true&theme=gotham&hide_border=true" alt="Uamir github stats" /></a> | <a href=""><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=developedbyumair&layout=compact&theme=buefy&hide_border=true" /></a> |
-| ------------- | ------------- |
+
 
 # Education
 
