@@ -15,7 +15,7 @@
 
 ## Github Status 🏆
 
-<img  src="https://github-readme-streak-stats.herokuapp.com/?user=developedbyumair&theme=react" width="100%" >
+<img  src="https://github-readme-streak-stats.herokuapp.com/?user=developedbyumair&theme=react" width="60%" >
 <br>
 
 ![github graph](https://github-readme-activity-graph.vercel.app/graph?username=developedbyumair&theme=react-dark)
