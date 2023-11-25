@@ -1,9 +1,9 @@
 
 # Highlights
 
-- 🔭 I’m currently working as Software Engineer at [Invotyx](https://invotyx.com)
+- 🔭 I’m currently working as a Software Engineer at [Invotyx](https://invotyx.com)
 - 🌱 I’m currently learning building dApps  
-- ❤️ I love writing TypeScript, and building fun experiments on type-level
+- ❤️ I love writing TypeScript and building fun experiments on type-level
 
 # Technical Skills
 
