@@ -1,9 +1,3 @@
-<p align="center">
-  <a href="http://developedbyumair.me/" target="blank">
- <img src="https://avatars.githubusercontent.com/u/110088358?v=4" width="350" border-radius="40" alt="umair">
-    <h1 align="center">Umair Ali</h1>
-  </a>
-</p>
 
 # Highlights
 
@@ -21,8 +15,7 @@
 
 ## Github Status 🏆
 
-<img  src="https://github-stats-lemon.vercel.app/api?username=developedbyumair&show_icons=true&hide_border=true&theme=react" width="48%" align="right" >
-<img  src="https://github-readme-streak-stats.herokuapp.com/?user=developedbyumair&theme=react" width="48%" >
+<img  src="https://github-readme-streak-stats.herokuapp.com/?user=developedbyumair&theme=react" width="100%" >
 <br>
 
 ![github graph](https://github-readme-activity-graph.vercel.app/graph?username=developedbyumair&theme=react-dark)
