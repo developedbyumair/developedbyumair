@@ -55,6 +55,17 @@ const umair = {
 
 # 🛠️ Technical Arsenal
 <div align="center">
+  
+# 📈 Impact & Contributions
+<div align="center">
+
+| Area | Impact |
+|------|---------|
+| Enterprise Solutions | Building scalable systems serving 100k+ users |
+| Open Source | 5+ contributions across major projects |
+| Community | Mentored 20+ developers, Created 5+ technical guides |
+
+</div>
 
 ### Frontend & UI
 ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
@@ -103,8 +114,8 @@ const umair = {
 # 🎓 Education
 ## [PMAS-Arid Agriculture University Rawalpindi-Pakistan](https://www.uaar.edu.pk/) (2018-2022)
 - 🎓 Bachelor of Science (BS), Computer Engineering
-- 🏆 Notable Projects: [Project 1], [Project 2]
-- 📚 Key Courses: Advanced Programming, Web Development, Database Systems
+- 🏆 Specialized in Software Architecture & System Design
+- 📚 Research Focus: Scalable Systems & Modern Web Technologies
 
 # 💻 Latest Tech Stack
 ```mermaid
