@@ -8,7 +8,7 @@
 ## About Me
 ```typescript
 const umair = {
-  role: "Software Engineer @ Invotyx",
+  role: "Software Engineer @ Dataspecc",
   focus: ["Full Stack Development", "Web3", "AI"],
   passion: "Building scalable solutions that matter"
 };
