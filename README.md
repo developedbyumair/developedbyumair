@@ -5,6 +5,9 @@
 
 > *"Every Week I try new ideas on Building in public."*
 
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=developedbyumair" alt="amruthpillai" /> </p>
+
+
 ## About Me
 ```typescript
 const umair = {
